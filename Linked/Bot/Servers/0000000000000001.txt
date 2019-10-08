@@ -1,0 +1,5 @@
+roles that can manage the bot
++
+roles that can make the bot play music
++
+tokens (In game/bot currency)
